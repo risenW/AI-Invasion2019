@@ -11,5 +11,8 @@ This is a repository of all files, datasets and notebooks I will be using over t
 ### Day 3
 Basic Intro to Numpy, Pandas and Matplotlib
 
+### Day 4
+Regression machine learning project using Supermarket Data Set
+
 
 
